@@ -1,0 +1,14 @@
+{
+  "name": "cp-attr",
+  "repo": "brighthas/cp-attr",
+  "description": "copy a element attrs to otherone.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
