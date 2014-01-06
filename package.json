@@ -1,0 +1,9 @@
+{
+  "name": "brighthas-cp-attr",
+  "description": "copy a element attrs to otherone.",
+  "version": "0.0.1",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}

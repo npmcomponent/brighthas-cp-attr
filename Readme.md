@@ -1,3 +1,4 @@
+*This repository is a mirror of the <http://component.io> module <http://github.com/brighthas/cp-attr>. It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/brighthas-cp-attr`.*
 
 # cp-attr
 
